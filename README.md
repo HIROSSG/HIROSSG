@@ -37,8 +37,7 @@ Building at the intersection of offensive security and AI infrastructure.
 
 - Applied Agentic AI: Systems Design & Impact — Virginia Tech & Simplilearn *(expected Oct 2026)*
 - Offensive Security OSCP/PWK curriculum — selected modules completed
-- Challenge Course Facilitator Certification — Bar-T (2025)
-
+  
 ---
 
 📫 jjlaflotte@gmail.com · [LinkedIn](https://linkedin.com/in/jackson-laflotte-585627324)
