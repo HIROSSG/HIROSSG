@@ -1,6 +1,6 @@
 # Jackson Laflotte
 
-**Virginia Tech '28 · Cybersecurity Management & Analytics + Business Information Technology**
+**Virginia Tech '28 · Cybersecurity Management & Analytics**
 
 Building at the intersection of offensive security and AI infrastructure.
 
